@@ -3,7 +3,6 @@
 - `../README.md` — GitHub project overview and documentation.
 - `../index.html` — Main entry point for the interactive simulator.
 - `../4-bit-ripple-carry-adder-circuit.png` — Circuit image extracted from the supplied mini-project report.
-- `../ripple-carry-vs-carry-lookahead.png` — RCA/CLA comparison figure extracted from the report.
 - `../report/` — Original 14-page mini-project report.
 - `../simulator/` — Original interactive HTML simulator and its PDF documentation.
 
